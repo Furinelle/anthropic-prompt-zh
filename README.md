@@ -17,7 +17,14 @@
 
 - `ANTHROPIC/`：Anthropic 相关提示词材料与笔记。
 - `*.zh.md`：简体中文翻译版本。
+- `*.analysis.zh.md`：中文提示词工程分析。
 - 原始文件名会尽量保留，便于对照原文和译文。
+
+## 当前内容
+
+- [Claude Fable 5 原文](ANTHROPIC/CLAUDE-FABLE-5.md)
+- [Claude Fable 5 中文译文](ANTHROPIC/CLAUDE-FABLE-5.zh.md)
+- [Claude Fable 5 提示词分析](ANTHROPIC/CLAUDE-FABLE-5.analysis.zh.md)
 
 ## 翻译约定
 
